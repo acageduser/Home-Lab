@@ -1,7 +1,7 @@
 # Home-Lab
 This is my home lab. It is a lab. At my home.
 
-<img width="2244" height="2235" alt="Home Lab Network Map Render" src="https://github.com/user-attachments/assets/11a61394-2bd2-4079-a91b-572fd2d50037" />
+<img width="2033" height="2338" alt="Home Lab Network Map Render" src="https://github.com/user-attachments/assets/61ff9f54-8398-408f-b216-a3d14205a7a9" />
 
 ## Documents
 1) **Home Lab Network Map.txt** — diagram code, IP plan, VLANs, firewall rules.  
